@@ -1,0 +1,6 @@
+@Turnkey_challenge_HostAddress = http://localhost:5114
+
+GET {{Turnkey_challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
